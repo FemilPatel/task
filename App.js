@@ -4,7 +4,7 @@ import React from 'react';
 const App = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.txt}>App</Text>
+      <Text style={styles.txt}> My App</Text>
     </View>
   );
 };
